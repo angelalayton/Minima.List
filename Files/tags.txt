@@ -1,0 +1,2 @@
+physics	255	2
+chemistry	16711680	3

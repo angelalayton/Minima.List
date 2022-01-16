@@ -1,0 +1,8 @@
+sunday	
+saturday	
+tuesday	
+wednesday	
+thursday	math test	04/01/21 11:59 pm	1	-1	
+friday	
+master	chemistry lab	03/31/21 11:00 am		3	math test	04/01/21 11:59 pm	1	-1	
+monday	chemistry lab	03/31/21 11:00 am		3	
